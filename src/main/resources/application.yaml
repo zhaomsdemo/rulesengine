@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: rulesengine
+  data:
+    mongodb:
+      database: rules_engine
+      uri: mongodb://localhost/rules_engine
